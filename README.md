@@ -1,7 +1,6 @@
 # Web-Crawler-
-A Project Report
-On
-WEB CRAWLER, WEB SCRAPING WITH BROWSER
+#A Project Report
+##WEB CRAWLER, WEB SCRAPING WITH BROWSER
 AUTOMATION USING PYTHON
 submitted for partial fulfillment of the requirements
 for the award of the degree of
